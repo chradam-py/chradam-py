@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chradam-py
-- 👀 I’m interested in debris disks, AGB stars, and stellar multiplicity
+- 👀 I’m interested in debris disks, AGB stars, and stellar multiplicity, satellite trail detection, and light pollution
 - 🌱 I’m hoping to fill this account with a lot of useful python repositories
-- 💞️ I’m looking to collaborate on SYNTHE spectra, TESS/Kepler light curves
 - 📫 How to reach me christian.adam84@gmail.com
 
 <!---
