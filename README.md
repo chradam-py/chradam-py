@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chradam-py
-- 👀 I’m interested in debris disks, AGB stars, and stellar multiplicity, satellite trail detection, and light pollution
+- 👀 I’m interested in satellite trail detection, and light pollution, debris disks, AGB stars, and stellar multiplicity
 - 🌱 I’m hoping to fill this account with a lot of useful python repositories
 - 📫 How to reach me christian.adam84@gmail.com
 
